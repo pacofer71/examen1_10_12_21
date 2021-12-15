@@ -1,0 +1,21 @@
+{
+    "name": "pacofer71/examen1",
+    "description": "Examen 1 Curso21-22",
+    "type": "project",
+    "license": "free",
+    "autoload": {
+        "psr-4": {
+            "Examen\\": "src/"
+        }
+    },
+    "optimize-autoloader": true,
+    "authors": [
+        {
+            "name": "pacofer71",
+            "email": "pacofer71@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.16"
+    }
+}
